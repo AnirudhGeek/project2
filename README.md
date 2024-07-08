@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local System.
-Created by Anirudh Raturi.
+Created by Anirudh Raturi
